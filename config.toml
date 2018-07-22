@@ -45,7 +45,7 @@ copyright = "Czar Pino"
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "https://www.czarpino.com"
     weight = 20
 
 [[menu.main]]
