@@ -39,17 +39,16 @@ copyright = "Czar Pino"
     post = "/:filename/"
 
 [[menu.main]]
-    name = "Home"
+    name = "Latest"
     url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Contact"
-    url = "/project/"
-    weight = 2
+    weight = 10
 
 [[menu.main]]
     name = "About"
-    url = "/page/contact/"
-    weight = 3
+    url = "/about/"
+    weight = 20
 
+[[menu.main]]
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 30
