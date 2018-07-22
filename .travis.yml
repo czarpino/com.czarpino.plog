@@ -5,4 +5,4 @@ install:
 
 # Build the website
 script:
-  - bin/hugo-lx-arm64
+  - bin/hugo-lx64
