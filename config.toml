@@ -1,0 +1,55 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Programming Log"
+theme = "ghostwriter"
+copyright = "Czar Pino"
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Author]
+    name = "My Name"
+    profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = false
+    headline = "Programming Blog"
+    description = "Czar Pino"
+    github = "https://github.com/czarpino"
+    gitlab = "https://gitlab.com/czarpino"
+    linkedin = "https://linkedin.com/in/czarpino/"
+    twitter = "https://twitter.com/czarpino"
+    stackoverflow = "https://stackoverflow.com/users/1349295/czar-pino"
+    email = "inbox@czarpino.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+
+[Permalinks]
+    post = "/:filename/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Contact"
+    url = "/project/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/page/contact/"
+    weight = 3
+
