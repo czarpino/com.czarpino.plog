@@ -6,4 +6,4 @@ install:
 # Build the website
 script:
   - cd src
-  - bin/hugo
+  - bin/hugo-lx64
