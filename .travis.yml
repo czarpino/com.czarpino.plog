@@ -6,3 +6,11 @@ install:
 # Build the website
 script:
   - bin/hugo-lx64
+
+# Deploy
+deploy:
+  provider: script
+  script: curl -X POST -d '' $NETLIFY_HOOK
+  skip_cleanup: true
+  on:
+    branch: master
