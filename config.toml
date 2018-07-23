@@ -10,16 +10,16 @@ copyright = "Czar Pino"
     disable = true
 
 [Author]
-    name = "My Name"
-    profile = "https://google.com/+XXX"
+    name = "Czar Pino"
+    profile = "https://twitter.com/czarpino"
 
 [Taxonomies]
     tag = "tags"
 
 [Params]
     intro = false
-    headline = "Programming Blog"
-    description = "Czar Pino"
+    headline = ""
+    description = ""
     github = "https://github.com/czarpino"
     gitlab = "https://gitlab.com/czarpino"
     linkedin = "https://linkedin.com/in/czarpino/"
