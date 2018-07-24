@@ -3,11 +3,12 @@ languageCode = "en-us"
 title = "Programming Log"
 theme = "ghostwriter"
 copyright = "Czar Pino"
+disqusShortname = "czarpino"
 
 [Privacy]
 
 [Privacy.disqus]
-    disable = true
+    disable = false
 
 [Author]
     name = "Czar Pino"
