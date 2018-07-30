@@ -2,6 +2,7 @@
 title: "Writing a bug report"
 description: "Programmers not mind readers"
 date: "2018-08-29"
+tags: ["project management"]
 ---
 
 Ever seen bug reports that would pass off as riddles? Yeah, I'm pretty sure you have. Maybe, you even wrote one yourself. After a few weeks, you come back to a ticket you wrote and you just can't make sense of it anymore. There is a theory that posits it is because you wrote a crappy bug report. Sorry, its true.
