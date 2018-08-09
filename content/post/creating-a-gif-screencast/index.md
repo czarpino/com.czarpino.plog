@@ -1,13 +1,13 @@
 ---
 title: "Creating a GIF screencast"
 description: "Screenshot ++"
-date: "2018-09-08"
+date: "2018-08-08"
 tags: ["tooling"]
 ---
 
-Sometimes you need to illustrate a use case which includes a series of actions. This can be a bit awkward to capture using a series of screenshots. A useful solution I've found is to use animated GIFs. Rather than a bulky screencast which can't really be embedded in merge requests, I use GIFs.
+Sometimes you need to illustrate a use case which includes a series of actions. This can be a bit awkward to capture using a series of screenshots. A useful solution I've found is to use animated GIFs. Rather than an unwieldy screencast which can't be embedded in merge requests, I use GIFs.
 
-![](img/screencast.gif)
+![screencast image here](img/screencast.gif)
 
 Now, I've only done this for macOS.
 
@@ -50,13 +50,13 @@ gifsicle -O3 -i output.gif -o output-optimized.gif
 
 ### Benchmark
 
-```
+```yaml
 file: img/screencast.gif
 webm: 1.0M
 ffmpeg: 1.4M
-ffmpeg -r 10: 924K
+ffmpeg(-r10): 924K
 gifsicle: 876K
-gifsicle (no background + 16 color palette): 656K
+gifsicle(--no-background/-k16): 656K
 ```
 
 ### Related article
