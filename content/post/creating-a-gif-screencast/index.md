@@ -1,7 +1,7 @@
 ---
 title: "Creating a GIF screencast"
 description: "Screenshot ++"
-date: "2018-08-08"
+date: "2018-09-08"
 tags: ["tooling"]
 ---
 
