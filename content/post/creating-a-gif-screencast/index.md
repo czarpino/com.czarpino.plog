@@ -2,7 +2,7 @@
 title: "Creating a GIF screencast"
 description: "Screenshot ++"
 date: "2018-09-08"
-tags: ["tooling"]
+tags: ["tooling", "ffmpeg"]
 ---
 
 Sometimes you need to illustrate a use case which includes a series of actions. This can be a bit awkward to capture using a series of screenshots. A useful solution I've found is to use animated GIFs. Rather than an unwieldy screencast which can't be embedded in merge requests, I use GIFs.
