@@ -1,3 +1,4 @@
 # Add file and directories to ignore here
-
+.DS_Store
+node_modules/
 public/*
