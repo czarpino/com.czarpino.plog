@@ -1,8 +1,8 @@
 ---
 title: "PHP Pseudo Random String"
-description: "Programmers not mind readers"
+description: "Beyond rand() and mt_rand()"
 date: "2018-09-18"
-tags: ["project management"]
+tags: ["php", "security", "random-generator"]
 ---
 
 When writing a random string generator in PHP, you must first consider whether or not you need a generator for a throwaway string ( e.g. placeholder or sample username) or a sensitive data (like a default password, application token, or salt). If you are generating for the latter, this article is for you.
