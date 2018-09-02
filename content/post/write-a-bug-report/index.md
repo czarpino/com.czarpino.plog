@@ -25,7 +25,6 @@ So what happened happened. What exactly of it? Knowing the expected (correct) be
 
 #### How to reproduce the bug
 
-What this wall of text was all actually about: knowing how to reproduce a frickin bug. Reporters love to leave this out so much so it makes you wonder whether they really want the bug fixed or they, perhaps, enjoy wasting other people's time. Being able to consistently reproduce a bug is necessary to both trace the root cause of a bug as well as validate a solution. During investigation, it also allows the programmer to confirm the existence of a bug.
+What this wall of text is actually about: knowing how to reproduce a frickin bug. Reporters love to leave this out so much so it makes you wonder whether they really want the bug fixed or they, perhaps, enjoy wasting other people's time. Being able to consistently reproduce a bug is necessary to both trace the root cause as well as validate a solution. During investigation, it also allows the programmer to confirm the bug's existence.
 
 And, those were the 3 important information you must convey in a bug report. I hope you stop writing crappy tickets! Don't be a jerk and always detail what happened, what was expected, and how to reproduce what happened. Your programmers will love you for it.
-
