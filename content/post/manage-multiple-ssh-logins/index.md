@@ -2,7 +2,7 @@
 title: "Manage Multiple SSH Logins"
 description: "Using a spreadsheet does not always make you clever"
 date: "2018-09-13"
-tags: ["tooling", "bash", "git"]
+tags: ["tooling", "bash", "ssh"]
 ---
 
 It can be quite cumbersome when you have a lot of remote servers to log into. If they support SSH access or if you can configure them to do so, managing access to multiple servers can be pleasantly manageable.
