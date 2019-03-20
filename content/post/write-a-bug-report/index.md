@@ -15,7 +15,7 @@ In a company, a team, or any worthwhile group endeavor, it is less about individ
 
 As those who have studied the computer sciences may have learned, how a problem is framed also influences its solutions. That is, a well framed problem can also make the optimal solution obvious. Similarly, a well written bug report makes it easier to correctly understand and address a bug.
 
-For the past half decade, I have followed a simple yet effective 3-step template for reporting bugs. While I only got it somewhere on the internet a few years back, all the teams I have shared it with have decided to adopt it. I privately call it the Reality-Expectation-Reproduction (RER) template and it basically asserts that a good bug report must at minimum have the 3 following information:
+For a while now, I have followed a simple 3-step template for reporting bugs. I, honestly, only got it somewhere on the internet a few years back but it has been so helpful that all the teams I have shared it with have decided to adopt it. I privately call it the Reality-Expectation-Reproduction (RER) template and it basically ensures a bug report has at minimum the 3 following information:
 
  - What happened - Reality
  - What was expected - Expectation
